@@ -1,2 +1,6 @@
 image/
 .venv
+.env
+data.yaml
+yolo*.pt
+runs/
