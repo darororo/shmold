@@ -1,0 +1,1 @@
+yolo predict model=runs/detect/train3/weights/best.pt source=data/v2/test/images/rotated_by_15_Screen-Shot-2018-06-12-at-9-03-55-PM_png.rf.5fdecf7f4d38673a75be6e77bc341011.jpg
