@@ -5,3 +5,4 @@ data.yaml
 yolo*.pt
 runs/
 src/__pycache__
+notebook/.ipynb_checkpoints
