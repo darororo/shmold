@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text-g",
+				"text-gray-500"
+			],
+			[
+				"movies",
+				"moviesError"
+			],
+			[
+				"SearchBar",
+				"SearchBar"
+			],
+			[
+				"text-w",
+				"text-white"
+			],
+			[
+				"movi",
+				"moviesError"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"text-re",
+				"text-red-500"
+			],
+			[
+				"c",
+				"className?"
+			],
+			[
+				"pad",
+				"paddingBottom?"
+			],
+			[
+				"key",
+				"keyExtractor?"
+			],
+			[
+				"Image",
+				"Image"
+			],
+			[
+				"text-l",
+				"text-lime-300"
+			],
+			[
+				"just",
+				"justify-between"
+			],
+			[
+				"resize",
+				"resizeMode?"
+			],
+			[
+				"post",
+				"poster_path"
+			],
+			[
+				"movie",
+				"moviesLoading"
+			],
+			[
+				"fet",
+				"fetchData"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"encod",
+				"encodeURIComponent"
+			],
+			[
+				"sta",
+				"statusText"
+			],
+			[
+				"place",
+				"placeholderTextColor?"
+			],
+			[
+				"onCh",
+				"onChangeText?"
+			],
+			[
+				"bg-dar",
+				"bg-dark-200"
+			],
+			[
+				"show",
+				"showsVerticalScrollIndicator?"
+			],
+			[
+				"backgrou",
+				"backgroundColor?"
+			],
+			[
+				"alig",
+				"alignItems?"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"see",
+				"seedTags"
+			],
+			[
+				"id",
+				"tagIds"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"tag",
+				"tagPromises"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"Is",
+				"IsOptional"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"get",
+				"getMany"
+			],
+			[
+				"left",
+				"leftJoinAndSelect"
+			],
+			[
+				"de",
+				"department"
+			],
+			[
+				"leftJoin",
+				"leftJoinAndSelect"
+			],
+			[
+				"feat",
+				"featureId"
+			],
+			[
+				"Prima",
+				"PrimaryGeneratedColumn"
+			],
+			[
+				"add",
+				"addMembers"
+			],
+			[
+				"addme",
+				"addMembers"
+			],
+			[
+				"ta",
+				"tagId?"
+			],
+			[
+				"a",
+				"categoryId?"
+			],
+			[
+				"js",
+				"jsonb"
+			],
+			[
+				"overflow",
+				"overflow-hidden"
+			],
+			[
+				"Text",
+				"Text"
+			],
+			[
+				"useLOCAL",
+				"useLocalSearchParams"
+			],
+			[
+				"text-light",
+				"text-light-300"
+			],
+			[
+				"text-bl",
+				"text-blue-100"
+			],
+			[
+				"text-blu",
+				"text-blue-100"
+			],
+			[
+				"test",
+				"testing"
+			],
+			[
+				"tea",
+				"teacherRole"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"r",
+				"roleRepo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"r",
+				"Rot13 Selection"
+			],
+			[
+				"rot",
+				"Rot13 Selection"
+			],
+			[
+				"rnfe",
+				"Snippet: reactNativeArrowFunctionComponent"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"lsp-type",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"type",
+				"LSP-typescript: Organize Imports"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"LSP-TPY",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"PACKAGE",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp-eslint",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"lspeslint",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"packge remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettier",
+				"Preferences: Prettierd Format"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"user pack",
+				"Package Control: User CA bundle"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp eslint",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"esli",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"eslio",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"snipper: reactNativeF",
+				"Snippet: reactNativeArrowFunctionComponent"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"odin",
+				"Set Syntax: Odin"
+			],
+			[
+				"package co",
+				"Package Control: Remove Package"
+			],
+			[
+				"gopls",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"settings ",
+				"Preferences: Settings"
+			],
+			[
+				"go",
+				"Preferences: LSP-gopls Settings"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (current language)"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"tags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"zig",
+				"Set Syntax: Zig"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus ",
+				"Terminus: List Shells"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"ppac",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"gopl",
+				"Preferences: LSP-gopls Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 313.0,
+		"history":
+		[
+			"os.environ[\"PATH\"]",
+			"os.environ[\"Path\"]",
+			"clear",
+			"cwd",
+			"ls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/daro/Codes/I5/image-processing/shmold"
+	],
+	"file_history":
+	[
+		"/home/daro/Codes/I5/image-processing/shmold/src/filter.py",
+		"/home/daro/Codes/I5/image-processing/shmold/.sublime/shmold.sublime-project",
+		"/home/daro/Codes/react-native/movie/react-kino/components/MovieCard.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/(tabs)/search.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/components/SearchBar.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/(tabs)/index.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app.json",
+		"/home/daro/Codes/react-native/movie/react-kino/interfaces/interfaces.d.ts",
+		"/home/daro/Codes/react-native/movie/react-kino/tailwind.config.js",
+		"/home/daro/Codes/react-native/movie/react-kino/services/useFetch.ts",
+		"/home/daro/Codes/react-native/movie/react-kino/services/api.ts",
+		"/home/daro/Codes/react-native/movie/react-kino/.gitignore",
+		"/home/daro/Codes/react-native/movie/react-kino/.env",
+		"/home/daro/Codes/react-native/movie/react-kino/app/(tabs)/_layout.tsx",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/.github/workflows/ci-cd.yml",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/user/user.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/Dockerfile",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/Dockerfile.prod",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/user/auth.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/seeder/seeder.module.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/user/user.controller.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/database/base.entity.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/node_modules/@nestjs/common/decorators/http/route-params.decorator.d.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/seeder/seeder.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/project.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/dto/create-project.dto.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/image/image.controller.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/common/dto/pagination.dto.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/dto/paginate-project.dto.ts",
+		"/home/daro/Codes/I5/network-security/tp9-nessus/docker-compose.yml",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/.github/dependabot.yml",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/entities/feature.entity.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/project.controller.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/eslint.config.mjs",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/nestjs.sublime-project",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/entities/project.entity.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/project/dto/add-member.dto.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/config/typeorm.config.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/app.module.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/app.controller.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/app.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/database/migrations/1734800000000-AddProjectViewCount.ts",
+		"/home/daro/.config/sublime-text/Packages/User/Package Control.user-ca-bundle",
+		"/home/daro/Codes/I4/image-processing/lab6/main.py",
+		"/home/daro/Banana-Single.jpg",
+		"/home/daro/Codes/react-native/movie/react-kino/eslint.config.mjs",
+		"/home/daro/Codes/react-native/movie/react-kino/app/_layout.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/(tabs)/saved.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/movies/[id].tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/(tabs)/profile.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/saved.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/index.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/movie/[id].tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/app/onboarding.tsx",
+		"/home/daro/Codes/react-native/movie/react-kino/babel.config.js",
+		"/home/daro/Codes/react-native/movie/react-kino/app/global.css",
+		"/home/daro/Codes/react-native/movie/react-kino/metro.config.js",
+		"/home/daro/Codes/react-native/movie/react-kino/nativewind-env.d.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-web/Dockerfile",
+		"/home/daro/Codes/golang/go-micro/broker-service/cmd/api/routes.go",
+		"/home/daro/Codes/golang/go-micro/broker-service/cmd/api/main.go",
+		"/home/daro/Codes/golang/go-micro/broker-service/cmd/api/handlers.go",
+		"/home/daro/Codes/oodin/tokenizer-kh/main.odin",
+		"/home/daro/Codes/oodin/tokenizerkh-zig/src/main.zig",
+		"/home/daro/Codes/I4/image-processing/lab6/pyproject.toml",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/user/entities/user.entity.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/dist/handlers/user/dto/create-user.dto.js",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/config/database.config.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/.env",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/handlers/image/image.service.ts",
+		"/home/daro/Codes/I5/gic-student-web/gic-student-project-api/src/main.ts",
+		"/home/daro/Codes/golang/go-micro/docker-compose.yml",
+		"/home/daro/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/daro/.config/sublime-text/Packages/User/LSP.sublime-settings"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "shmold.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tailwind",
+				"tailwind.config.js"
+			],
+			[
+				"userdto",
+				"dist/handlers/user/dto/create-user.dto.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

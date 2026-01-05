@@ -4,3 +4,4 @@ image/
 data.yaml
 yolo*.pt
 runs/
+src/__pycache__
