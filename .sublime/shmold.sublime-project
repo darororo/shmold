@@ -5,14 +5,4 @@
 			"path": ".."
 		}
 	],
-	"settings": {
-      "LSP": {
-         "LSP-pyright": {
-            "settings": {
-                "venvPath": "..",
-                "venv": ".venv"
-            }
-         }
-      }
-   }
 }
