@@ -34,7 +34,7 @@ def main():
     cv2.destroyAllWindows()
 
 
-    # filter.sharpen_and_eq_hist()
+    # filter.eq_hist()
 
 if __name__ == "__main__":
     main()

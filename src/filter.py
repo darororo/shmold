@@ -18,7 +18,7 @@ sharpen_kernel = np.array([
 data_image_path = 'data/v2/train/images'
 data_labels_path = 'data/v2/train/labels'
 
-augmented_path = 'data/v2/augmented'
+augmented_path = 'data/augmented/eq_hist'
 aug_images_path = os.path.join(augmented_path, 'images')
 aug_labels_path = os.path.join(augmented_path, 'labels')
 
