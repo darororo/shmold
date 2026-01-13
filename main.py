@@ -9,10 +9,13 @@ def main():
     rgb_output_dir = '/home/eva/Documents/ITC/I5/ImageProcessing/mold_detection/shmold/data/rgb/train'
     hsv_output_dir = '/home/eva/Documents/ITC/I5/ImageProcessing/mold_detection/shmold/data/hsv/train'
     sharp_output_dir = '/home/eva/Documents/ITC/I5/ImageProcessing/mold_detection/shmold/data/sharp/train'
+    eqHist_output_dir = '/home/eva/Documents/ITC/I5/ImageProcessing/mold_detection/shmold/data/eqHist/train'
+
 
     # filter.change_hsv_and_save(data_dir, hsv_output_dir, -15, 5, 2)
     # filter.change_bgr_and_save(data_dir, rgb_output_dir, 0, 10, -10)
-    filter.sharpen_and_save(data_dir, sharp_output_dir)
+    # filter.sharpen_and_save(data_dir, sharp_output_dir)
+    filter.equalize_histogram_and_save(data_dir, eqHist_output_dir)
 
     img_path = '/home/eva/Documents/ITC/I5/ImageProcessing/mold_detection/shmold/data/polygon/train/images/f3615f65-Dropped_Image_50.png'
 
@@ -20,13 +23,13 @@ def main():
     imgRGB = filter.add_rgb(img, 2, 20, 40)
     imgHSV = filter.add_hsv(img, -10, 20, 16)
     imgSharp = filter.sharpen(img)
+    imgHistEQ = filter.equalize_histogram(img)
 
 
     cv2.imshow('change rgb', imgRGB)
     cv2.imshow('change hsv', imgHSV)
     cv2.imshow('change sharp', imgSharp)
-
-
+    cv2.imshow('change EQ', imgHistEQ)
 
     while True:
         key = cv2.waitKey(1) & 0xFF
