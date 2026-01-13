@@ -165,3 +165,54 @@ def change_bgr_and_save(data_dir: str, output_dir: str, red=0, green=0, blue=0):
         if os.path.exists(src_label_path):
             _ = shutil.copy(src_label_path, dst_label_path)
 
+def sharpen(img: MatLike):
+    # Define a sharpening kernel
+    kernel = np.array([[-1, -1, -1],
+                    [-1,  9, -1],
+                    [-1, -1, -1]])
+
+    # Apply the kernel to the image
+    sharpened = cv2.filter2D(img, -1, kernel)
+    
+    return sharpened
+    
+def sharpen_and_save(data_dir: str, output_dir: str):
+    # Create folders
+    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
+
+    image_dir = os.path.join(data_dir, 'images')
+    label_dir = os.path.join(data_dir, 'labels')
+
+    out_img_dir = os.path.join(output_dir, 'images')
+    out_label_dir = os.path.join(output_dir, 'labels')
+
+    os.makedirs(out_img_dir, exist_ok=True)
+    os.makedirs(out_label_dir, exist_ok=True)
+
+
+    suffix = 'sharp'
+    for filename in os.listdir(image_dir):
+        if not filename.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp')):
+            continue
+
+        img_path = os.path.join(image_dir, filename)
+
+        img = cv2.imread(img_path)
+        img = sharpen(img)
+
+        # Get file name and extension separately
+        name, ext = os.path.splitext(filename)
+
+        # Save augmented images
+        save_name = f'{name}_{suffix}{ext}'
+        save_path = os.path.join(out_img_dir, save_name)
+        _ = cv2.imwrite(save_path, img)
+
+
+        # Copy all labels from OG file
+        label_file = name + '.txt'
+        src_label_path = os.path.join(label_dir, label_file)
+        dst_label_path = os.path.join(out_label_dir, f'{name}_{suffix}.txt')
+        if os.path.exists(src_label_path):
+            _ = shutil.copy(src_label_path, dst_label_path)
